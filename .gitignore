@@ -1,0 +1,8 @@
+﻿target/
+*.class
+*.war
+.classpath
+.project
+.settings/
+.idea/
+src/main/webapp/target/
